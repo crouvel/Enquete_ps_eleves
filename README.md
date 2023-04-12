@@ -1,7 +1,7 @@
 # 🕵️‍ Enquete_ps_eleves 🕵️‍♀️ 
 
 ## Réalisé par Clarence Rouvel, sous la responsabilité de Mme Anne Laurent - Projet reprenant le travail d'Eya Jelassi et Sebastien Cortes.
-## Ce dossier constitue votre outil de travail afin de résoudre l'enauête SQL sur laquelle vous allez devoir travailler.
+### Ce dossier constitue votre outil de travail afin de résoudre l'enauête SQL sur laquelle vous allez devoir travailler.
 
 ### Vous évoluerez dans le terminal de commande PostgreSQL Crunchy Data : https://www.crunchydata.com/developers/playground
  
