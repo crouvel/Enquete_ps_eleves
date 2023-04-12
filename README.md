@@ -18,6 +18,7 @@
 # 🚀 Prise en main 🚀
 
 ### Chaque dossier d'enquête contient l'énoncé à résoudre chaque enquête, ouvrez celui correspondant à celui que l'on vous a affecté, et à vous de jouer ! 
+### Vous pouvez télécharger l'énoncé en cliquqnt sur le fichier et en appuyant sur download tout A DROITE !
 
 # ⚠️ Avant de démarrer ⚠️
 
@@ -34,7 +35,7 @@
 
 ## 📋 Ensuite, pour les requêtes écrites sur plusieurs lignes, il faut faire en sorte que les commandes principales soient suivies par un attribut ou mot clé, pour chaque ligne. Par exemple, pour ume ligne : SELECT nom_attribut ( et ensuite vous pouvez écrire sur une lige en dessous).
 
-## ⚠️📋 Il est FORTEMENT CONSEILLE d'utiliser un éditeur de code pu bloc-note pour écrire au préalable vos requêtes !!
+## ⚠️📋 Il est FORTEMENT CONSEILLE d'utiliser un éditeur de code ou un bloc-note pour écrire au préalable vos requêtes !!
 
 
 
