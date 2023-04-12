@@ -1,14 +1,15 @@
 # Enquete_ps_eleves
 
-### Ce dossier constitue votre outil de travail afin de résoudre l'enauête SQL sur laquelle vous allez devoir travailler.
 
-### Vous évoluerez dans le terminal de commande PostgreSQL Crunchy Data :
+## Ce dossier constitue votre outil de travail afin de résoudre l'enauête SQL sur laquelle vous allez devoir travailler.
 
-### https://www.crunchydata.com/developers/playground
+ Vous évoluerez dans le terminal de commande PostgreSQL Crunchy Data :
 
-### Si vous avez besoin de tutoriel d'aide : https://www.crunchydata.com/developers/playground/psql-basics
+https://www.crunchydata.com/developers/playground
 
-### Vous allez être affectés sur un des sujets enquêtes, selon votre niveau scolaire.
+Si vous avez besoin de tutoriel d'aide : https://www.crunchydata.com/developers/playground/psql-basics
+
+ Vous allez être affectés sur un des sujets enquêtes, selon votre niveau scolaire.
 
 ### Si vous devez travailler sur l'enquête 1, cliquez sur ce lien :  https://www.crunchydata.com/developers/playground?sql=https://raw.githubusercontent.com/crouvel/Enquetes_SQL_ps/main/creation_remplissage_enquete1.sql
 
@@ -22,7 +23,7 @@ Chaque dossier d'enquête contient l'énoncé à résoudre, à vous de jouer !
 
 # Avant de démarrer
 
-## Veuillez accorder de l'importance à chacune de ces règles, qui serez répéter également par votre enseigant(e) :
+## Veuillez accorder de l'importance à chacune de ces règles, qui serez répéter également par votre enseignant(e) :
 
 ### Lorsque vous cliquez sur l’un des liens pour résoudre des enquêtes Crunchy Data, il faut attendre que toutes les lignes de scripts soient exécutées, et que vous puissiez taper des requêtes sql. Laissez les scripts se lancer automatiquement, puis les élèves pourront commencer à travailler lorsque le terminal affichera tout à la fin: C’est le : postgres=# qui permet de rédiger des requêtes SQL.
 
