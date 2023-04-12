@@ -18,7 +18,7 @@
 # 🚀 Prise en main 🚀
 
 ### Chaque dossier d'enquête contient l'énoncé à résoudre chaque enquête, ouvrez celui correspondant à celui que l'on vous a affecté, et à vous de jouer ! 
-### Vous pouvez télécharger l'énoncé en cliquqnt sur le fichier et en appuyant sur download tout A DROITE !
+### ⚠️⚠️ Vous pouvez télécharger l'énoncé en cliquqnt sur le fichier et en appuyant sur download tout A DROITE ! ou View raw !
 
 # ⚠️ Avant de démarrer ⚠️
 
