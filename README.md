@@ -3,9 +3,9 @@
 
 ## Ce dossier constitue votre outil de travail afin de résoudre l'enauête SQL sur laquelle vous allez devoir travailler.
 
-####vVous évoluerez dans le terminal de commande PostgreSQL Crunchy Data : https://www.crunchydata.com/developers/playground
+### Vous évoluerez dans le terminal de commande PostgreSQL Crunchy Data : https://www.crunchydata.com/developers/playground
  
-#### Si vous avez besoin de tutoriel d'aide : https://www.crunchydata.com/developers/playground/psql-basics
+### Si vous avez besoin de tutoriel d'aide : https://www.crunchydata.com/developers/playground/psql-basics
 
 #### Vous allez être affectés sur un des sujets enquêtes, selon votre niveau scolaire.
 
