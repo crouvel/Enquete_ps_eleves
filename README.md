@@ -1,4 +1,4 @@
-# Enquete_ps_eleves
+# Enquete_ps_eleves 🕵️‍♂️🕵️‍♀️ Réalisé par Clarence Rouvel, sous la responsabilité de Mme Anne Laurent - Projet rerenant le travail d'Eya Jelassi et Sebastien Cortes
 
 
 ## Ce dossier constitue votre outil de travail afin de résoudre l'enauête SQL sur laquelle vous allez devoir travailler.
@@ -9,17 +9,17 @@
 
 ### Vous allez être affectés sur un des sujets enquêtes, selon votre niveau scolaire.
 
-## Si vous devez travailler sur l'enquête 1, cliquez sur ce lien :  https://www.crunchydata.com/developers/playground?sql=https://raw.githubusercontent.com/crouvel/Enquetes_SQL_ps/main/creation_remplissage_enquete1.sql
+## 🧐 Si vous devez travailler sur l'enquête 1, cliquez sur ce lien :  https://www.crunchydata.com/developers/playground?sql=https://raw.githubusercontent.com/crouvel/Enquetes_SQL_ps/main/creation_remplissage_enquete1.sql
 
-## Si vous devez travailler sur l'enquête 2, cliquez sur ce lien :  https://www.crunchydata.com/developers/playground?sql=https://raw.githubusercontent.com/crouvel/Enquetes_SQL_ps/main/creation_remplissage_enquete2.sql
+## 🧐 Si vous devez travailler sur l'enquête 2, cliquez sur ce lien :  https://www.crunchydata.com/developers/playground?sql=https://raw.githubusercontent.com/crouvel/Enquetes_SQL_ps/main/creation_remplissage_enquete2.sql
 
-## Si vous devez travailler sur l'enquête 3, cliquez sur ce lien :   https://www.crunchydata.com/developers/playground?sql=https://raw.githubusercontent.com/crouvel/Enquetes_SQL_ps/main/creation_remplissage_enquete3.sql
+## 🧐 Si vous devez travailler sur l'enquête 3, cliquez sur ce lien :   https://www.crunchydata.com/developers/playground?sql=https://raw.githubusercontent.com/crouvel/Enquetes_SQL_ps/main/creation_remplissage_enquete3.sql
 
 # Prise en main
 
 ### Chaque dossier d'enquête contient l'énoncé à résoudre, à vous de jouer ! 
 
-# Avant de démarrer
+# ⚠️ Avant de démarrer ⚠️
 
 ## Veuillez accorder de l'importance à chacune de ces règles, qui serez répéter également par votre enseignant(e) :
 
