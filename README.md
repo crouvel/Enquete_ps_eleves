@@ -3,13 +3,11 @@
 
 ## Ce dossier constitue votre outil de travail afin de résoudre l'enauête SQL sur laquelle vous allez devoir travailler.
 
- Vous évoluerez dans le terminal de commande PostgreSQL Crunchy Data :
+####vVous évoluerez dans le terminal de commande PostgreSQL Crunchy Data : https://www.crunchydata.com/developers/playground
+ 
+#### Si vous avez besoin de tutoriel d'aide : https://www.crunchydata.com/developers/playground/psql-basics
 
-https://www.crunchydata.com/developers/playground
-
-Si vous avez besoin de tutoriel d'aide : https://www.crunchydata.com/developers/playground/psql-basics
-
- Vous allez être affectés sur un des sujets enquêtes, selon votre niveau scolaire.
+#### Vous allez être affectés sur un des sujets enquêtes, selon votre niveau scolaire.
 
 ### Si vous devez travailler sur l'enquête 1, cliquez sur ce lien :  https://www.crunchydata.com/developers/playground?sql=https://raw.githubusercontent.com/crouvel/Enquetes_SQL_ps/main/creation_remplissage_enquete1.sql
 
@@ -19,7 +17,7 @@ Si vous avez besoin de tutoriel d'aide : https://www.crunchydata.com/developers/
 
 # Prise en main
 
-Chaque dossier d'enquête contient l'énoncé à résoudre, à vous de jouer ! 
+#### Chaque dossier d'enquête contient l'énoncé à résoudre, à vous de jouer ! 
 
 # Avant de démarrer
 
